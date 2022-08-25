@@ -1,4 +1,4 @@
-# uw_m19_text_editor
+# JATE Text Editor
 
 ## Description
 JATE is a text editor web app that also works offline. You can install it and sync to the database later.
